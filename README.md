@@ -6,4 +6,5 @@ Koding ini dikerjakan dalam bahasa Python guna memenuhi tugas Capstone Project M
 4. ubah(): sebagai menu yang menerima masukan dari user untuk merubah data yang sudah ada dan menyimpan pembaruan data tersebut ke dalam program selama program berjalan
 5. hapus(): sebagai menu yang menghapus entry/baris data sesuai dengan NIM yang ada
 6. keluar(): sebagai menu yang menghapus dan menghentikan sesi program yang berjalan
-Program ini tidak dirancang untuk menyimpan masukan data ke dalam database, sehingga data yang telah dimasukkan hanya bersifat sementara dan dapat diakses selama belum keluar dari program/menggunakan fungsi keluar(). Anda dapat menggunakan tulisan saya sebagai referensi belajar bahasa Python atau pemrograman secara umum. Pertanyaan dan diskusi dapat saya terima melalui ....
+
+Program ini tidak dirancang untuk menyimpan masukan data ke dalam database, sehingga data yang telah dimasukkan hanya bersifat sementara dan dapat diakses selama belum keluar dari program/menggunakan fungsi keluar(). Anda dapat menggunakan tulisan saya sebagai referensi belajar bahasa Python atau pemrograman secara umum. Pertanyaan dan diskusi dapat saya terima melalui nasyahrike@gmail.com
