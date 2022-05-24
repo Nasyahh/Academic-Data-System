@@ -1,4 +1,4 @@
-# studyatPurwadhika
+
 Koding ini dikerjakan dalam bahasa Python guna memenuhi tugas Capstone Project Modul 1 Purwadhika Job Connector Data Science di bulan Mei 2022. Program ini dibuat dengan sistem fungsi CRUD (Create, Read, Update, Delete) yang berkesinambungan dan masing-masing fungsi berjalan sesuai dengan kriteria yang diterapkan oleh ketentuan Capstone Project Modul 1 di Purwadhika. Dalam program yang telah saya tulis terdapat beberapa fungsi penting di antaranya:
 1. menu(): sebagai menu utama untuk memanggil fungsi sesuai dengan pilihan yang dimasukkan oleh user
 2. baca(): sebagai menu yang menyajikan data mahasiswa yang tersimpan, jika belum ada data maka menu ini memberikan return 'Tidak Ada Data' dan kembali ke menu utama
